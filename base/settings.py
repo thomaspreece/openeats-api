@@ -220,6 +220,8 @@ STATIC_ROOT = os.path.join(PROJECT_PATH, 'static-files')
 MEDIA_URL = '/site-media/'
 STATIC_URL = '/static-files/'
 
+FILE_UPLOAD_PERMISSIONS = 0o644
+
 ugettext = lambda s: s
 LANGUAGES = (
      ('en', ugettext('English')),

@@ -1,3 +1,6 @@
+See https://github.com/thomaspreece/openeats for usage
+
+
 # OpenEats API
 
 [![API Build Status](https://travis-ci.org/open-eats/openeats-api.svg?branch=master)](https://travis-ci.org/open-eats/openeats-api)
